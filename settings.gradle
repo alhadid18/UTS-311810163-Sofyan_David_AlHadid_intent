@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "UTS_sofyandavidalhadid_311810163_intent"
